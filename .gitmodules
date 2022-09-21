@@ -1,0 +1,6 @@
+[submodule "basic-artificial-neuron"]
+	path = basic-artificial-neuron
+	url = https://github.com/sina-negarandeh/basic-artificial-neuron
+[submodule "mlp-artificial-neural-network"]
+	path = mlp-artificial-neural-network
+	url = https://github.com/sina-negarandeh/mlp-artificial-neural-network
